@@ -7,10 +7,10 @@ The data used in this project is from the collected results of WMAP data, publis
 
 
 ### Desktop installation
-Follow download links included on [SuperCollider's website](https://supercollider.github.io/) in order to install SuperCollider on your device. Once installed, you can directly load the .sc files into the IDE. 
+Follow download links included on [SuperCollider's website](https://supercollider.github.io/) in order to install SuperCollider on your device. Once installed, you can directly load the .scd files into the IDE. 
 
 ### RasPi4 installation
-Follow the instructions [here](https://github.com/supercollider/supercollider/blob/develop/README_RASPBERRY_PI.md) to install SuperCollider onto your Raspberry Pi. Note that the included .sc files utilize the GUI framework that SuperCollider uses. 
+Follow the instructions [here](https://github.com/supercollider/supercollider/blob/develop/README_RASPBERRY_PI.md) to install SuperCollider onto your Raspberry Pi. Note that the included .scd files utilize the GUI framework that SuperCollider uses. 
 
 
 ## Documentation / Usage 
